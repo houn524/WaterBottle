@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978082527687",
+    "firebase_url": "https://water-bottle-a596e.firebaseio.com",
+    "project_id": "water-bottle-a596e",
+    "storage_bucket": "water-bottle-a596e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978082527687:android:b7b50b62c6d88bed",
+        "android_client_info": {
+          "package_name": "com.UnknownGames.WaterBottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978082527687-dfi30ufr797m08m9d7vk4q5qudo96el9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UnknownGames.WaterBottle",
+            "certificate_hash": "1b1ba18a04cccb7e1b46d1e8e99469e90b204b86"
+          }
+        },
+        {
+          "client_id": "978082527687-5m3l1a7hm6splif6hdrrbd21tkhgbsjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09zu-5Kk24uypbF5Vg8UwMsltZjACraw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978082527687-5m3l1a7hm6splif6hdrrbd21tkhgbsjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

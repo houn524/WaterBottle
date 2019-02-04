@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://water-bottle-a596e.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">978082527687</string>
+  <string name="google_storage_bucket" translatable="false">water-bottle-a596e.appspot.com</string>
+  <string name="project_id" translatable="false">water-bottle-a596e</string>
+  <string name="google_api_key" translatable="false">AIzaSyB09zu-5Kk24uypbF5Vg8UwMsltZjACraw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB09zu-5Kk24uypbF5Vg8UwMsltZjACraw</string>
+  <string name="google_app_id" translatable="false">1:978082527687:android:b7b50b62c6d88bed</string>
+  <string name="default_web_client_id" translatable="false">978082527687-5m3l1a7hm6splif6hdrrbd21tkhgbsjm.apps.googleusercontent.com</string>
+</resources>

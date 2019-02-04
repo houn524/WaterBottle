@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Star
+  - StarSpawnPos
+  - exit
+  - Enemy
+  - MarkX
+  - deadly
+  - enemy
+  - MarkO
+  - powerup
+  - gamepad
+  - LevelController
+  - Civilian
+  - Bottle
+  - MovingBlock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Laundry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hide
+    uniqueID: 289725349
+    locked: 0
+  - name: Background
+    uniqueID: 115966729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUDUI
+    uniqueID: 3736473611
+    locked: 0
+  - name: MenuUI
+    uniqueID: 2677022407
+    locked: 0
